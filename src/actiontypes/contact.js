@@ -1,0 +1,6 @@
+export const CONTACT_LIST = 'CONTACT_LIST';
+export const CONTACT_NO_DATA = 'CONTACT_NO_DATA';
+export const CONTACT_ADD = 'CONTACT_ADD';
+export const CONTACT_EDIT = 'CONTACT_EDIT';
+export const CONTACT_UPDATE = 'CONTACT_UPDATE';
+export const CONTACT_DELETE = 'CONTACT_DELETE';
